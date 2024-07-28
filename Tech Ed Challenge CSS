@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightcoral;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  text-align: center;
+}
+
+#container {
+  background-color: lightblue;
+  padding: 50px;
+  margin: 20px;
+  display: flex;
+  flex-direction: horizontal;
+  justify-content: space-between;
+}
+
+h2,
+footer {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.overview {
+  background-color: white;
+  text-align: center;
+  color: lightcoral;
+  font-size: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+
+table {
+  background-color: white;
+  width: 600px;
+  text-align: center;
+  border: 5px solid lightblue;
+  color: lightcoral;
+  font-size: 15px;
+  margin: 10px;
+  padding: 10px;
+}
