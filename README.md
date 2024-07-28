@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me: email @ ayling.thomasj@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i spent 5 months solo travelling in south america
+- ⚡ Fun fact: i spent 5 months solo travelling in south america after i graduated 
 
 <!---
 tomjayling/tomjayling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
