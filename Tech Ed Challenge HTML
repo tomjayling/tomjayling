@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+    <h1>
+      <p>About Me</p>
+    </h1>
+    <h2>
+      <p>Welcome! My name is Thomas Ayling and this is my website!</p>
+    </h2>
+  </header>
+  <main>
+    <div id="container">
+      <section class="overview">
+        <p>
+        <h3>
+          <p>I am a physics graduate from Birmingham University.</p>
+        </h3>
+        </p>
+        <img src="graduation.jpg" height="400" width="400" alt>
+      </section>
+      <section class="overview">
+        <p>
+        <h3>
+          <p>I spent the last 5 months back-packing in South America.</p>
+        </h3>
+        </p>
+        <img src="travelling.jpg" height="400" width="400" alt>
+      </section>
+      <section class="overview">
+        <p>
+        <h3>
+          <p>I have lived in Cambridgeshire all my life.</p>
+        </h3>
+        </p>
+        <img src="family.jpg" height="400" width="400" alt>
+      </section>
+    </div>
+    <marquee>
+      <table>
+        <tr>
+          <th>
+            <p>Question</p>
+          </th>
+          <th>
+            <p>Answer</p>
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <p>What is your favorite food?</p>
+          </td>
+          <td>
+            <p>Vegan Pizza</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>What is your favorite movie?</p>
+          </td>
+          <td>
+            <p>Star Wars Episode VI</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <p>What is your favorite book?</p>
+          </td>
+          <td>
+            <p>Quantum Supremacy by Michio Kaku</p>
+          </td>
+        </tr>
+      </table>
+    </marquee>
+  </main>
+  <footer>
+    <nav>
+      <ul>
+        <li><a href="https://www.instagram.com/t.j.ayling/">Instagram</a></li>
+        <li><a href="https://github.com/tomjayling">Github</a></li>
+      </ul>
+    </nav>
+  </footer>
+  <script src="script.js"></script>
+</body>
+
+</html>
