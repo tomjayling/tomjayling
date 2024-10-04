@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Thomas Ayling
 - 👀 I’m interested in software engineering jobs
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning Python design patterns
 - 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me: email @ ayling.thomasj@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i spent 5 months solo travelling in south america after i graduated 
+- ⚡ Fun fact: i spent 6 months solo travelling in south america after i graduated 
 
 Guide to this repository:
 - Tech Educators Challenge includes a basic website made using HTML 
