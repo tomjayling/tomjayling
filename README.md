@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering jobs
 - 🌱 I’m currently learning Python design patterns
 - 💞️ I’m looking to collaborate on tech projects
-- 📫 How to reach me: email @ ayling.thomasj@gmail.com
+- 📫 How to reach me: ayling.thomasj@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm vegan! 
 
