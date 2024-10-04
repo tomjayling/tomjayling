@@ -6,6 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i spent 5 months solo travelling in south america after i graduated 
 
+In this repository, there are:
+- Python projects from my bachelors degree in Physics
+- Web design projects from Tech Educators Coding Taster
+
 <!---
 tomjayling/tomjayling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
