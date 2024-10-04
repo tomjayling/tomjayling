@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me: email @ ayling.thomasj@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i spent 6 months solo travelling in south america after i graduated 
+- ⚡ Fun fact: i am vegan! 
 
 Guide to this repository:
 - Tech Educators Challenge includes a basic website made using HTML 
