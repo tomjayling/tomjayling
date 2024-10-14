@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I'm vegan! 
 
 Guide to this repository:
+- Python Design Patterns includes files from the Linkedin Learning Python Design Patterns Course by Jungwoo Ryoo
 - Tech Educators Challenge includes a basic website made using HTML 
 - First Year Projects includes python challenges using numpy, MATPLOTLIB and scipy.
 - Second Year Projects includes an image recognition program for counting coins in an image
