@@ -12,6 +12,7 @@ Guide to this repository:
 - "First Year Projects" includes Python challenges using NumPy, Matplotlib and SciPy.
 - "Second Year Projects" includes an image recognition program for counting coins in an image
 - "Third Year Projects" includes a particle physics project and a robotics project using TCP sockets
+- "Sixth Form Projects" includes a fantasy football project written in Object Pascal
 
 <!---
 tomjayling/tomjayling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
