@@ -7,11 +7,11 @@
 - ⚡ Fun fact: I'm vegan! 
 
 Guide to this repository:
-- Python Design Patterns includes files from the Linkedin Learning Python Design Patterns Course by Jungwoo Ryoo
-- Tech Educators Challenge includes a basic website made using HTML 
-- First Year Projects includes python challenges using numpy, MATPLOTLIB and scipy.
-- Second Year Projects includes an image recognition program for counting coins in an image
-- Third Year Projects includes a particle physics project and a robotics project using TCP sockets
+- "Python Design Patterns" and "Python advanced design patterns" include files from Linkedin Learning Courses by Jungwoo Ryoo
+- "Tech Educators Challenge" includes a basic website made using HTML 
+- "First Year Projects" includes Python challenges using NumPy, Matplotlib and SciPy.
+- "Second Year Projects" includes an image recognition program for counting coins in an image
+- "Third Year Projects" includes a particle physics project and a robotics project using TCP sockets
 
 <!---
 tomjayling/tomjayling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
