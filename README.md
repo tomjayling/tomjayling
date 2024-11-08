@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I'm vegan! 
 
 Guide to this repository:
-- "Python Design Patterns" and "Python advanced design patterns" include files from Linkedin Learning Courses by Jungwoo Ryoo
+- "Python Design Patterns" and "Python Advanced Design Patterns" include files from LinkedIn Learning Courses by Jungwoo Ryoo
+- "Learning C#" includes files from the LinkedIn Learning course by Joe Marini
+- "Practical C++" includes files from the Skillshare course by Zach Hughes
 - "Tech Educators Challenge" includes a basic website made using HTML 
 - "First Year Projects" includes Python challenges using NumPy, Matplotlib and SciPy.
 - "Second Year Projects" includes an image recognition program for counting coins in an image
