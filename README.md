@@ -12,8 +12,8 @@ Guide to this repository:
 - "Practical C++" includes files from the Skillshare course by Zach Hughes
 - "Tech Educators Challenge" includes a basic website made using HTML 
 - "First Year Projects" includes Python Assignments and Scientific Computing using NumPy, Matplotlib and SciPy
-- "Second Year Projects" includes an image recognition program for counting coins in an image and a particle physics project modelling deuteron formation
-- "Third Year Projects" includes a particle physics project and a robotics project using TCP sockets
+- "Second Year Projects" includes an image recognition program for counting coins in an image
+- "Third Year Projects" includes a particle physics project modelling deuteron formation and a robotics project using TCP sockets
 - "Sixth Form Projects" includes a fantasy football project written in Object Pascal
 
 <!---
