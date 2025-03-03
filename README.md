@@ -2,9 +2,6 @@
  <img alt="YOUR-ALT-TEXT" src="github_banner.png">
 </picture>
 - 👋 Hi, I’m Thomas Ayling
-- 👀 I’m interested in software engineering jobs
-- 🌱 I’m currently learning Python design patterns
-- 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me: ayling.thomasj@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm vegan! 
